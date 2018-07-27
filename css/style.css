@@ -1,0 +1,100 @@
+body{
+	background: #E1F0F8;
+	width: 100%;
+	margin: 0 auto;
+	padding: 0;
+	font-family: 'Lato', sans-serif;
+	font-size: 16px;
+	color: gray;
+}
+*{
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	padding-top: 0px;
+	padding-bottom: 7px;
+	padding-left: 1px;
+	padding-right: 0px;
+}
+img{
+	max-width: 100%;
+	display: block;
+}
+header{
+	width: 100%;
+
+	background: gray;
+	height: 70px;
+}
+.container{
+	background: white;
+	width: 80%;
+	margin: 0px auto;
+}
+.container-box{
+	width: 85%;
+	margin:	0 auto;
+}
+.logo{
+	width: 20%;
+	float: left;
+}
+.container{
+	 height: 100%;
+}
+.form_part{
+  color: black !important;
+  background-color:white;
+  display:  block;
+  border-radius: 3%;
+  font-family: times new roman;
+  margin: 0px 313px  250px 313px;
+}
+
+}
+.form_part login{
+  margin: 200px;
+  padding: 100px;
+}
+.form_part h3{
+  padding-bottom: 50px;
+  padding-top: 30px;
+  padding-left: 200px;
+}
+.form_part input{
+  margin-bottom: 20px;
+  border: none;
+  border-bottom: 1px solid #C8C8C8;
+  outline: none;
+  width: 100%;
+}
+.form_part a{
+  text-decoration: none;
+  color: black;
+}
+.banner input[type="submit"]{
+  border: none;
+  background: #16a1be;
+  padding: 10px;
+}
+.LOGIN input[type="submit"]:hover{
+  background: #A3D1D6;
+}
+.banner{
+	 background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(../images/best-typing-software.jpg);
+  /*background-color:rgba(1, 1, 1, 0.5);*/
+  /*opacity: .8;*/
+  /*background:red;*/
+ 
+  background-size: cover
+}
+.banner img{
+  width:100%;
+ }
+ .banner {
+ 	height: 100%;
+ }
+ .bcontainer{
+ 	
+ }
+ 
